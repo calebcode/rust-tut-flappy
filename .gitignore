@@ -1,0 +1,11 @@
+# Standard Rust build outputs
+target/
+
+# IDE/Editor specific files (JetBrains/IntelliJ)
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
