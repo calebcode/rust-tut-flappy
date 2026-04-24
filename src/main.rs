@@ -19,6 +19,7 @@ impl State {
 
     fn play(&mut self, ctx: &mut BTerm) {
         // TODO: fill in this stub later
+        // another comment to test a strange commit and push...event (not calling it a bug)
         self.mode = GameMode::End;
     }
 
